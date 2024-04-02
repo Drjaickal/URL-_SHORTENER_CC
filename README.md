@@ -1,11 +1,6 @@
 # URL-_SHORTENER_CC
 
 
-
-Certainly, here's a README file for your URL shortener script:
-
-**README.md**
-
 **Simple URL Shortener**
 
 This Python script provides a basic tool to shorten URLs using the TinyURL API.
